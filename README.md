@@ -8,9 +8,9 @@
 
 ##### \- Course: Fundamentals of AI and ML
 
-##### \- Student Name: Altamash
+##### \- Student Name: Tanishq Loharuka
 
-##### \- Registration Number: 25BAC10010
+##### \- Registration Number: 25BME10004
 
 ##### \- Institution: Vellore Institute of Technology Bhopal (VIT - BHOPAL)
 
@@ -674,15 +674,15 @@ spam-detection-analysis/
 
 \*\*\[Altamash]\*\*
 
-\- Registration Number: \[25BAC10010]
+\- Registration Number: \[25BME10004]
 
 \- Course: Fundamentals of AI and ML
 
 \- Institution: VIT BHOPAL
 
-\- Email: \[altamash.25bac10010@vitbhopal.ac.in]
+\- Email: \[tanishq.25bme10004@vitbhopal.ac.in]
 
-\- GitHub: \[github.com/altamash70/Project_spam-detection-analysis]
+\- GitHub: \[https://github.com/tanishq25bme10004-create/Project_spam-detection-analysis]
 
 
 
